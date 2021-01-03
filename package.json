@@ -1,0 +1,17 @@
+{
+  "name": "wejam-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "text",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4",
+    "utf-8-validate": "^5.0.3"
+  }
+}
